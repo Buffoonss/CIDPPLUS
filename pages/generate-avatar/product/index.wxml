@@ -8,7 +8,7 @@
 		<view class="index_box">
 			<view>
 				<scroll-view class="scroll_headlist" scroll-x="true">
-					<view wx:for="{{headList}}" class="headpic-card">
+					<view wx:for="{{headList}}" wx:key="nokey" class="headpic-card">
 						<image class="card-in" src="{{item.imgSrc}}"></image>
 						<view
 						 class="card-in-btn"

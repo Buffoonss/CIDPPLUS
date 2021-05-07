@@ -47,7 +47,10 @@
     }
     
     .foot-img{
+        margin:100rpx auto;
         margin-bottom: 0em;
-        width: 100%;
+        width: 700rpx;
+        height: 50rpx;
     }
+
 

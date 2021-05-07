@@ -7,27 +7,35 @@ Page({
 		headList: [
 			{
 				imgSrc: "/img/headlist/pic1.png",
-				text: "基础款"
+				text: "样式一"
 			},
 			{
 				imgSrc: "/img/headlist/pic2.png",
-				text: "防灾生日快乐"
+				text: "样式二"
 			},
 			{
 				imgSrc: "/img/headlist/pic3.png",
-				text: "I love CIDP"
+				text: "样式三"
 			},
 			{
 				imgSrc: "/img/headlist/pic4.png",
-				text: "大爱无疆"
+				text: "样式四"
 			},
 			{
 				imgSrc: "/img/headlist/pic5.png",
-				text: "崇德博智"
+				text: "样式五"
 			},
 			{
 				imgSrc: "/img/headlist/pic6.png",
-				text: "扶危定倾"
+				text: "样式六"
+			},
+			{
+				imgSrc: "/img/headlist/pic7.png",
+				text: "样式七"
+			},
+			{
+				imgSrc: "/img/headlist/pic8.png",
+				text: "样式八"
 			},
 		]
 

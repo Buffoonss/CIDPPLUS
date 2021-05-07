@@ -43,6 +43,10 @@ const versionDescription = [{
 	title: "2021/1/22 CIDPPLUS V1.0！！！",
 	body: "1后端采用Node.js重构，请求平均提速150%\n2.采用Koa框架替换django，更加轻量化，支持更高的并发数！\n 3.采用pupeteer+chromium替换selenium+chrome—driver,根据系统核心实现负载均衡，复用chromium实例，页面响应更快！\n",
 	note: ""
+}, {
+	title: "2021/5/7 CIDPPLUS V1.0.1",
+	body: "1.添加46th头像，下线新春头像（By Buffoonss）",
+	note: ""
 }
 ]
 
