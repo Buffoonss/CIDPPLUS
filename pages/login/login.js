@@ -24,7 +24,7 @@ Page({
 	},
 	// 表单验证函数
 	loginBefore: function () {
-		if (this.data.studentID.length < 7) {
+		if (this.data.studentID.length < 7 || !(/^\d+$/.test((this.data.studentID)))) {
 			Notify({
 				type: 'warning',
 				message: '请检查用户名'
